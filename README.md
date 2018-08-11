@@ -17,15 +17,16 @@ letras quantas necessárias para ficar novamente com sete. O jogo termina
 quando se esgotarem as letras do saco. Ganha quem tiver marcado mais
 pontos desde o início do jogo.
 
-Peças
+Peças:
 A edição do jogo em português contém 118 peças.
 • 0 pontos: Peças brancas ×3
-• 1 ponto: A x14, E x11, I x10, O x10, S x8, U x7, M x6, R x6, T x5,
+• 1 ponto: A x14, E x11, I x10, O x10, S x8, U x7, M x6, R x6, T x5
 • 2 pontos: D x5, L x5, C x4, P x4
 • 3 pontos: N x4, B x3
 • 4 pontos: F x2, G x2, H x2, V x2
 • 5 pontos: J x2
 • 6 pontos: Q x1
+• 8 pontos: X x1, Z x1
 
 Regras do Jogo:
 • Troca de pedras: Todos os jogadores podem usar a sua vez para trocar
